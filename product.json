@@ -1,0 +1,32 @@
+{
+  "title": "React Router 7 Production Blueprint",
+  "description": "Full\u2011stack starter with Cloudflare Workers and Docker adapters.",
+  "pricing": [
+    {
+      "tier": "Community",
+      "price": 0,
+      "features": [
+        "Open source",
+        "Basic docs"
+      ]
+    },
+    {
+      "tier": "Pro Team",
+      "price": 49,
+      "features": [
+        "Premium docs",
+        "License key",
+        "Support"
+      ]
+    },
+    {
+      "tier": "Enterprise",
+      "price": 149,
+      "features": [
+        "All features",
+        "Custom integration",
+        "Priority support"
+      ]
+    }
+  ]
+}

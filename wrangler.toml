@@ -1,0 +1,4 @@
+name = "react-router7-blueprint"
+compatibility_date = "2024-01-01"
+account_id = "${CLOUDFLARE_ACCOUNT_ID}"
+workers_dev = true
